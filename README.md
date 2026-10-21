@@ -1,27 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-<title>Fernando Lopez-Zacapala Resume</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet">
-<style>
-  p { color: rgb(16, 95, 160); }
-   h2, h3, h4, h5, h6 {
-    font-family: "Lekton", monospace;
-    font-size: 35px;
-    color: rgb(116, 0, 0);
-  }
-  li, p, ul {
-    font-family: "Aldrich", sans-serif;
-    font-size: 20px;
-  }
-   h1 {
-    font-family: "Lekton", monospace;
-    font-size: 60px;
-  }
-</style>
 </head>
 <body>
   <h1>Fernando Lopez-Zacapala Resume</h1>
