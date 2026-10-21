@@ -1,9 +1,2 @@
-# Website Template
-
-Fork and use this template repo (a.k.a. "boilerplate") for any web project
-
-## Use this repo
-
-1. Click "Use this template"
-1. Choose either "Create a new repository" or "[Open in a Codespace](https://codespaces.new/criticalwebdesign/website-template)"
-
+# Internet Studio Midterm
+Find the directions for this practical exam as comments inside index.html. Use this file as a template in your own repo and make sure you follow each step. There are 10 steps, one point each, and 2 bonus steps. You can earn 12 points on this 10-point exam. 
